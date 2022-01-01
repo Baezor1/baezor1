@@ -1,2 +1,5 @@
-![Baezor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baezor1&show_icons=true&theme=dracula)<br />
-![Baezor's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baezor1&show_icons=true&theme=dracula)<br />
+👋 Hello! I'm Baezor!
+
+I'm am a Skript developer making awesome things @ Quartz Studios!
+
+Check out some of my personal projects on my github and check out quartz at https://discord.gg/quartz
