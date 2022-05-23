@@ -6,11 +6,10 @@
 
 # 📄 Experience
 
-#### Skript ⭐⭐⭐⭐⭐
-My language of choice is normally SkriptLang. I've been working with Skript for over 3 years creating fun projects on Minecraft. I've been doing commissions for over 2 years with Skript.
-#### Python ⭐⭐⭐⭐
-I've used Python for small scripts and projects. While I don't use Python often, I feel relitivly confident with it.
-#### JavaScript ⭐⭐⭐
-I'm pretty new to JavaScript, but I've experimented with building APIs and Discord bots.
-#### Java ⭐
-I do not like Java. I will use Java if I *have* to.
+(5 ⭐) **Skript** - My language of choice is normally SkriptLang. I've been working with Skript for over 3 years creating fun projects on Minecraft. I've been doing commissions for over 2 years with Skript.
+
+(4 ⭐) **Python** -I've used Python for small scripts and projects. While I don't use Python often, I feel relitivly confident with it.
+
+(3 ⭐) **JavaScript** - I'm pretty new to JavaScript, but I've experimented with building APIs and Discord bots.
+
+(1 ⭐) **Java** - I do not like Java. I will use Java if I *have* to.
