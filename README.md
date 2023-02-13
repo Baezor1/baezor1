@@ -2,7 +2,7 @@
 
 # 👋 Hello! I'm Baezor!
 
-- I'm primarily a [Skript](https://github.com/SkriptLang/Skript/releases) developer with over 3 years of experience!
+- I'm primarily a [Skript](https://github.com/SkriptLang/Skript/releases) developer with over 4 years of experience!
 - Working on a server called [Minematic](https://minematic.io/)! 
 - You can check out my portfolio [here](https://baezor.com/)!
 
@@ -15,4 +15,4 @@
 - Java
 
 # 👨🏼‍💻 My Work
-You can check out my portfolio [here](https://baezor.com/projects)!
+You can check out my portfolio [here](https://baezor.com/)!
